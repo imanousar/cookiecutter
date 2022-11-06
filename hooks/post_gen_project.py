@@ -1,5 +1,6 @@
 help = """
 Your project has been created!
+_____________________________________________________________________________
  _______________________________________
 / Run for cover, I feel a sneeze coming \
 \ on.                                   /
@@ -21,6 +22,7 @@ Your project has been created!
                ///-._ _ _ _ _ _ _}^ - - - - ~                     ~-- ,.-~
 
                                                                   /.-~
+_____':::::_____________________________________\__\_________________________
 
 Hi, this is a test cookiecutter. 
 Acks: https://github.com/patrickmineault/true-neutral-cookiecutter
